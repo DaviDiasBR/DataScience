@@ -24,3 +24,8 @@
 #### - SHOW_COMPARE_HANDS - Shows the results of comparison of two hands;
 #### - TEST_RANDOM_HANDS - Tests random hands;
 
+### Overview of the script
+#### The script creates functions,all over the process the functions are tested an in the end the code will generate random hands and the results of comparison.
+
+
+
